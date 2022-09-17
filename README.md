@@ -1,19 +1,2 @@
-# loan-calc
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+A calculator that helps people to figure the size of the loan they can afford, taking into consideration multiple
+variables. In addition, offers some explanation on key terms regarding loans and interests.
